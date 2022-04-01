@@ -250,7 +250,7 @@ p{
 
 /* heading description(what we do) */
 
-
+/* 
 .about-us-description{
     padding: 10px;
     margin: 10px;
@@ -266,13 +266,29 @@ p{
 #what-we-do-main-content{
     display: flex;
     justify-content: center;
+    
     align-items: center;
     margin-top: 30px;
     margin-bottom: 30px;
     /* width: 100%; */
     /* min-height: 100vh; */
 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
 .what_we_do_grid{
     display: flex;
     padding: 20px;
@@ -299,12 +315,14 @@ p{
 .what_we_do_header{
     color: #167037;
 
+} */ */
+
+
+/* Acitivities style */
+
+.letter-spacing{
+    letter-spacing: 10px;
 }
-
-
-
-
-
 
 
 /*************************************** footer section *********************************/
